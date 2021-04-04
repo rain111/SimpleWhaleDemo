@@ -1,6 +1,6 @@
 # docker-whale
 
-Test 
+Test 2 
 
 Run me : `docker run -p80:80 ushamandya/whale-example`
 
